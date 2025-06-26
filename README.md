@@ -16,4 +16,3 @@ This project is a **front-end clone** of the Spotify web player. It visually rep
 ---
 
 ## 📁 Project Structure
-
